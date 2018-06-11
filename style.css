@@ -1,0 +1,37 @@
+body{
+    background-color: cyan;
+}
+
+h1{
+    background-color: darkcyan;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+nav{
+    list-style-type: circle;
+    text-align: center;
+}
+h2{
+    background-color: blueviolet;
+}
+
+#smoothies{
+    font-size:22px;
+    background-color: aquamarine;
+}
+
+#tiramisu{
+
+    font-size:22px;
+    background-color: darkkhaki;
+}
+
+#cake{
+
+    font-size:22px;
+    background-color: coral;
+}
+p{
+    font-size: 90%;
+}
